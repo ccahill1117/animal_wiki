@@ -1,0 +1,10 @@
+div#tigerImg, div#lionImg, div#cheetahImg {
+  display: none;
+}
+
+
+
+img {
+  width: 500px;
+
+}
